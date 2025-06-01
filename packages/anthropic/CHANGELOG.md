@@ -1,5 +1,11 @@
 # @ai-sdk/anthropic
 
+## 2.0.0-alpha.8
+
+### Patch Changes
+
+- ad66c0e: feat (provider/anthropic): json response schema support via tool calls
+
 ## 2.0.0-alpha.7
 
 ### Patch Changes

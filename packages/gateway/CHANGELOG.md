@@ -1,5 +1,13 @@
 # @ai-sdk/gateway
 
+## 1.0.0-alpha.8
+
+### Patch Changes
+
+- 3cbcbb7: feat (providers/gateway): share common gateway error transform logic
+- 989ac75: chore (providers/gateway): update chat model ids
+- 7742ba3: feat (providers/gateway): add gateway error types with error detail
+
 ## 1.0.0-alpha.7
 
 ### Patch Changes
